@@ -11,7 +11,7 @@ from telethon.tl.functions.messages import AddChatUserRequest
 from telethon.tl.types import Channel, Chat
 
 # ======= CONFIGURAÇÕES =======
-BOT_TOKEN = "7146425074:AAHf2EhXs2dO6jaiDrnl3F6qnc70Rg_GhZ0"
+BOT_TOKEN = "7926478557:AAFrDZxOTZIFGSWlxwt3GT3Q3GWMP5dbiZ8"
 API_ID = 20305448
 API_HASH = "2d9ee612f8ece128cd4bd78b2e71d01e"
 OWNER_ID = 8002161328
